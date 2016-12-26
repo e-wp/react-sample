@@ -10,8 +10,8 @@ coverage
 # build
 
 # source
-src
-public
+# src
+# public
 
 # misc
 .DS_Store
